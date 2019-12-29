@@ -1,14 +1,6 @@
 {
     "name": "bitpolar/sortcatalogwidget",
     "description": "Adds the ability to sort a catalog widget by a product attribute in Magento 2.",
-    "require": {
-        "php": "~5.5.0|~5.6.0|~7.0.0",
-        "magento/module-store": "100.0.*",
-        "magento/framework": "100.0.*"
-    },
-    "suggest": {
-        "magento/module-config": "100.0.*"
-    },
     "type": "magento2-module",
     "version": "1.0.0",
     "license": [
