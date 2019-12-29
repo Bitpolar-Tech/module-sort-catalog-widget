@@ -1,5 +1,5 @@
 {
-    "name": "bitpolar-tech/module-sort-catalog-widget",
+    "name": "bitpolar/module-sort-catalog-widget",
     "description": "N/A",
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0",
@@ -22,13 +22,5 @@
         "psr-4": {
             "Bitpolar\\SortCatalogWidget\\": ""
         }
-    },
-	"extra": {
-        "map": [
-            [
-                "*",
-                "Bitpolar/SortCatalogWidget"
-            ]
-        ]
     }
 }

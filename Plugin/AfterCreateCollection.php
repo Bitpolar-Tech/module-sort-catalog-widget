@@ -1,7 +1,14 @@
 <?php
+/**
+ * @author Stefan Euchenhofer
+ * @copyright Copyright (c) 2019 Bitpolar Technologies (https://www.bitpolar.de)
+ * @package Bitpolar_SortCatalogWidget
+ */
+ 
 namespace Bitpolar\SortCatalogWidget\Plugin;
-use \Magento\Framework\DB\Select;
-use \Psr\Log\LoggerInterface;
+
+use Magento\Framework\DB\Select;
+use Psr\Log\LoggerInterface;
 
 class AfterCreateCollection
 {

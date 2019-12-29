@@ -1,7 +1,13 @@
 <?php
+/**
+ * @author Stefan Euchenhofer
+ * @copyright Copyright (c) 2019 Bitpolar Technologies (https://www.bitpolar.de)
+ * @package Bitpolar_SortCatalogWidget
+ */
 
 namespace Bitpolar\SortCatalogWidget\Model\Config\Source;
-use \Magento\Framework\DB\Select;
+
+use Magento\Framework\DB\Select;
 
 class Direction implements \Magento\Framework\Option\ArrayInterface
 {

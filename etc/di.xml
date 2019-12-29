@@ -1,3 +1,12 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @author Stefan Euchenhofer
+ * @copyright Copyright (c) 2019 Bitpolar Technologies (https://www.bitpolar.de)
+ * @package Bitpolar_SortCatalogWidget
+ */
+-->
+
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/ObjectManager/etc/config.xsd">
     <type name="Magento\CatalogWidget\Block\Product\ProductsList">
